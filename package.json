@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": {},
   "author": "Josh Greenwood <joshua.t.greenwood@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
